@@ -1,0 +1,1 @@
+# NeuroScanAI_Detec-o_Tumor_por_Imagem
